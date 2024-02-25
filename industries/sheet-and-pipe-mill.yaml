@@ -135,6 +135,7 @@ layout:
     - 16
     - 11
     - 8
+- - - -1
 name: Sheet and Pipe Mill
 placement: anywhere
 probabilityInGame: 0
